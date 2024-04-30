@@ -1,6 +1,5 @@
 Documentation of [UTTER](https://he-utter.eu)'s FSTP calls.
 
-# First Call (2023)
 
 # Second call (2024)
 
