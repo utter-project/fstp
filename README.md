@@ -19,6 +19,8 @@ Documentation of [UTTER](https://he-utter.eu)'s FSTP calls.
 5. [A4 - Evaluation criteria](https://raw.githubusercontent.com/utter-project/fstp/main/2023/UTTER_FSTP1_A4_Evaluation_Criteria.pdf)
 5. [Key facts](https://raw.githubusercontent.com/utter-project/fstp/main/2023/UTTER_FSTP1_Key_Facts.pdf)
 
+The call was published on July 26, 2023 and closed on October 15, 2023. A total of 54 proposals were received in this call. Eight proposals were selected for funding (decisions were communicated on December 20, 2023). The selected projects' details can be accessed [via this link](https://raw.githubusercontent.com/utter-project/fstp/main/2023/UTTER_FSTP1_Selected_Projects.pdf).
+
 # General
 
 UTTER's [grant agreement](https://raw.githubusercontent.com/utter-project/fstp/main/general/UTTER_GA.pdf) and [consortium agreement](https://raw.githubusercontent.com/utter-project/fstp/main/general/UTTER_CA.pdf).
