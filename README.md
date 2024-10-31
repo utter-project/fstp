@@ -24,3 +24,7 @@ The call was published on July 26, 2023 and closed on October 15, 2023. A total 
 # General
 
 UTTER's [grant agreement](https://raw.githubusercontent.com/utter-project/fstp/main/general/UTTER_GA.pdf) and [consortium agreement](https://raw.githubusercontent.com/utter-project/fstp/main/general/UTTER_CA.pdf).
+
+# For awardees
+
+* Final report template: [pdf](https://raw.githubusercontent.com/utter-project/fstp/main/2023/UTTER_FSTP1_Report_Template.pdf), [overleaf](https://www.overleaf.com/read/nfvyrysymrzh#e56421), [docx](https://raw.githubusercontent.com/utter-project/fstp/main/2023/UTTER_FSTP1_Report_Template.docx)
